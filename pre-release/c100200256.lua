@@ -1,6 +1,7 @@
 --ＯＴｏＮａＲｉサンダー
 --Otonari Thunder
 --Scripted by Hatter
+--test change
 local s,id=GetID()
 function s.initial_effect(c)
 	--Special Summon this card
